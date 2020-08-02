@@ -36,100 +36,67 @@
 
 ### 计算机基础
 
-- 计算机网络
-- 操作系统
-- 数据库
+计算机网络 
 
-  - RDS
+操作系统 
 
-    - MySQL
+数据库 ：MySQL、MongoDB、Redis
 
-  - NoSQL
+软件工程 
 
-    - MongoDB
-    - Redis
-
-- 软件工程
-- 计算机组成原理
+计算机组成原理
 
 ### 算法
 
-- 算法
+算法：基础 + 进阶 + 刷题（保护一定题量）
 
-  - 基础
-  - 进阶
-  - 刷题
-
-    - 保持一定题量
-
-- 数据结构
-
-  - 基础
-  - 进阶
+数据结构：基础 + 进阶
 
 ## 技术🌲
 
 ### 基础前端知识
 
-- HTML
-- CSS
-- Javascript
+HTML + CSS + Javascript
 
 ### Tool
 
-- Git
-- Vim
-- Maven
+Git + Vim + Maven
 
 ### Java
 
-- Java核心技术
-- JVM知识
-- Java并发编程
+Java核心技术 + JVM知识 + Java并发编程
 
 ### Spring系列
 
-- Spring
-- SpringBoot
-- Spring Cloud
+Spring + SpringBoot + Spring Cloud
 
 ### 服务器
 
-- 服务器基础知识
-- Linux
+服务器基础知识
 
-  - Linux基础
-
-- Nginx
-- Apache
+Linux： Linux基础 +  Nginx + Apache
 
 ### Container
 
-- Docker
-- K8S
+Docker + K8S
 
 ### 中间件
 
-- 消息队列
-- 搜索引擎
-- .....
+消息队列 + 搜索引擎 .....
 
 ## 额外提高🎄
 
 ### 参与课外项目
 
-- 围绕技术栈相关项目
+围绕技术栈相关项目
 
 ### 参与开源运动
 
-- 参与开源项目
-- 自己开源项目
+参与开源项目 或 自己的开源项目
 
 ### 参与课外比赛
 
-- ACM
-- 数学建模
-- ......
+ACM + 数学建模......
 
 </div>
 
