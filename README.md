@@ -1,4 +1,4 @@
-# Java-Student-Roadmap🚗
+# Java Student Roadmap🚗
 > 专门为准备BAT Java岗的学生，制定的【校招】学习路线🚗
 >
 > The Roadmap for Java Learner in School for  BAT interviews🚗
@@ -21,12 +21,14 @@
 
 
 <div align="center">
-  <img src="http://picreso.oss-cn-beijing.aliyuncs.com/roadmap.png">
+  <img src="http://picreso.oss-cn-beijing.aliyuncs.com/roadmaps.png">
 </div>
 
 ## 详细描述✏️
 
+#### 总体策略：
 
+**基础为主 + 算法训练 + 技术 + 额外亮点**
 
 ## 贡献你的想法💡
 
